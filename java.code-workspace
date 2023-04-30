@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/java"
+		},
+		{
+			"path": "D:/java/java/hello java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hello java"
+	}
+}
